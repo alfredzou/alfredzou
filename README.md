@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**alfredzou/alfredzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alfred, a data enthusiast with 3+ years of experience in data analytics.
 
-Here are some ideas to get you started:
+- 🔭 Looking for a data engineering, analytics engineering or insights analyst role
+- 🌱 Learning data engineering
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/alfred-zou/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎲 [BoardGameGeek Pipeline](https://github.com/alfredzou/BoardGameGeek_Pipeline)
+
+For my capstone project, I created an end-to-end data engineering pipeline. Please check it out.
+
+## 👨‍💻 Top Technologies
+- SQL
+- Cloud: Google Cloud Platform
+- Transformations: dbt
+- Orchestrator: Mage
+- Language: Python
+- Infrastructure as code: Terraform
+- Dashboard: Tableau
+- Version control: git
