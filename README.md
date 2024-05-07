@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Alfred, a data enthusiast with 3+ years of experience in data analytics.
+I'm Alfred, a data enthusiast with 2.5+ years of experience in data analytics.
 
 - 🎲 Check out my data engineering project: [BoardGameGeek Pipeline](https://github.com/alfredzou/BoardGameGeek_Pipeline)
 - 🌱 Learning data engineering
@@ -9,4 +9,4 @@ I'm Alfred, a data enthusiast with 3+ years of experience in data analytics.
 
 ## 👨‍💻 Technologies
 
-SQL, Python, GCP, dbt, Mage, terraform, docker, git, PySpark
+SQL, Python, GCP, dbt, Mage, Terraform, docker, git, PySpark, Tableau, Airflow
