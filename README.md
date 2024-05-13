@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Alfred, a data enthusiast with 2.5+ years of experience in data analytics.
+I'm Alfred, a data enthusiast with 3 years of experience in data analytics.
 
 - 🎲 Check out my fully orchestrated data engineering project: [BoardGameGeek Pipeline](https://github.com/alfredzou/BoardGameGeek_Pipeline)
 - 🌱 Currently learning data engineering
